@@ -13,5 +13,5 @@ Features include:
 
 Application was built for iOS devices.
 
-![](README_Images/arfurnitureapp_1.jpeg)
-![](README_Images/arfurnitureapp_2.jpeg)
+![](README_Images/arfurnitureapp_1.jpg)
+![](README_Images/arfurnitureapp_2.jpg)
